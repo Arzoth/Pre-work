@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"so",
+				"sorted_array"
+			],
+			[
+				"grea",
+				"great_movies"
+			],
+			[
+				"gre",
+				"great_movies"
+			],
+			[
+				"del",
+				"delete"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arzothakur/Downloads/oop-master/week_3.rb",
+		"/Users/arzothakur/Downloads/oop-master/Week_1.rb",
+		"/Users/arzothakur/Downloads/oop-master/Week-2.rb",
+		"/Users/arzothakur/Downloads/oop-master/list.rb",
+		"/Users/arzothakur/screencast_automation/features/Amazon_Search.feature",
+		"/Users/arzothakur/Desktop/week 2 Excercises",
+		"/Users/arzothakur/Desktop/Recipe.html",
+		"/Users/arzothakur/Downloads/oop-master.zip",
+		"/Users/arzothakur/screencast_automation/feature/Amazon_Search.feature",
+		"/Users/arzothakur/screencast_automation/Gemfile.lock",
+		"/Users/arzothakur/screencast_automation/feature/Amazon_search.feature",
+		"/Users/arzothakur/screencast_automation/gemfile",
+		"/Users/arzothakur/Dropbox/loadtest.side",
+		"/Users/arzothakur/Dropbox/CA-regression testing.side",
+		"/Users/arzothakur/Desktop/Ruby/test.rb",
+		"/Users/arzothakur/Downloads/ruby-fundamentals/2-ruby-fundamentals-module2-exercise-files/initialize.rb",
+		"/Users/arzothakur/Desktop/Ruby/features/search.feature.html",
+		"/Users/arzothakur/Desktop/Feature/step_definitions/_steps.rb",
+		"/Users/arzothakur/Desktop/_steps.rb",
+		"/Users/arzothakur/Desktop/Ruby/search_steps.rb",
+		"/Users/arzothakur/Desktop/Ruby/search.feature",
+		"/Users/arzothakur/Desktop/Ruby/search.feature.rb",
+		"/Users/arzothakur/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/selenium-webdriver-3.14.0/lib/selenium/webdriver/common/service.rb",
+		"/Users/arzothakur/Downloads/test.rb"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "procedural_todo.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"READ",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
